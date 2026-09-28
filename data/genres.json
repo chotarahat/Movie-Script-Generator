@@ -1,0 +1,74 @@
+{
+  "sci-fi": {
+    "inciting": [
+      "A signal appears on a dead frequency.",
+      "The prototype activates without a power source."
+    ],
+    "rising": [
+      "The readings begin changing faster than anyone can explain.",
+      "A hidden message reveals that someone expected them to arrive."
+    ],
+    "climax": [
+      "The team finally reaches the source of the signal.",
+      "The machine opens a portal that cannot remain stable for long."
+    ],
+    "ending": [
+      "The signal stops, but one last light remains on the console.",
+      "They leave with more questions than answers, carrying a new map."
+    ]
+  },
+  "horror": {
+    "inciting": [
+      "A locked door opens by itself.",
+      "A voice answers from an empty room."
+    ],
+    "rising": [
+      "The lights fail one by one while footsteps circle the group.",
+      "An old recording reveals what happened to the previous occupants."
+    ],
+    "climax": [
+      "The group confronts whatever has been following them.",
+      "The final room contains evidence that the nightmare is not over."
+    ],
+    "ending": [
+      "At sunrise, everything looks normal except for one open door.",
+      "Silence returns, but a new voice can be heard on the recording."
+    ]
+  },
+  "comedy": {
+    "inciting": [
+      "The plan fails before it even begins.",
+      "Someone accidentally sends the secret message to the wrong person."
+    ],
+    "rising": [
+      "Every attempted solution somehow creates a bigger problem.",
+      "The team discovers that their biggest enemy is their own misunderstanding."
+    ],
+    "climax": [
+      "The final plan is improvised in under thirty seconds.",
+      "Everyone commits to the worst idea they have heard all day."
+    ],
+    "ending": [
+      "The problem is solved mostly by accident.",
+      "They walk away arguing about who gets credit for the disaster."
+    ]
+  },
+  "thriller": {
+    "inciting": [
+      "An anonymous file arrives with a deadline attached.",
+      "A witness disappears before giving the final piece of evidence."
+    ],
+    "rising": [
+      "The clues point toward someone inside the team.",
+      "A second message proves the enemy knows their every move."
+    ],
+    "climax": [
+      "The final confrontation begins before anyone is ready.",
+      "The team must choose between the evidence and saving a life."
+    ],
+    "ending": [
+      "The case appears closed, but one unanswered clue remains.",
+      "The truth reaches the public, while the real architect disappears."
+    ]
+  }
+}
